@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Prazer meu nome é  Kaio, sou de São Paulo, Estudande de desenvolvimento de sistemas.</p>
+<p align="left">Prazer meu nome é  Kaio, sou de São Paulo, Estudante de desenvolvimento de sistemas.</p>
 
 ###
 
